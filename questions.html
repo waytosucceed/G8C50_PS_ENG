@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questions</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+  <script src="./questions.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.7.0/dist/confetti.browser.min.js"></script>
+
+</head>
+<body>
+  <!-- <audio id="cheers">
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio> -->
+  <!-- <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio> -->
+  <audio id="submit-sound" src="./assests/sounds/submit.mp3"></audio>
+  <header class="header">
+    <img src="./assests/logo/Logo.png" alt="Logo" class="logo">
+    <span><img src="./assests/logo/header.png" alt="Header" class="header-image"></span>
+  </header>
+  <main class="container">
+    <h1 id="heading" class="text-center"></h1>
+    <div id="buttonContainer" class="text-center"></div>
+    <div style="text-align: center; margin: 10px;">
+    <button class="modal-btn btn " data-toggle="modal" data-target="#storyModal">Click here to read story</button>
+  </div>
+    <div class="row maindiv">
+      <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 numdiv">
+        <p id="numdiv"></p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 imgdiv" id="picdiv">
+        <img id="math_ques" src="Math Question.jpg" class="img-responsive">
+      </div>
+      <div id="questiondiv" class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+        <div id="question"></div>
+        <br>
+        <div class="menu" id="head">
+          <ul id="options"></ul>
+        </div>
+        <button id="subbtn" class="btn btn-success" onclick="checkAnswer()">Submit Answer</button>
+        <button id="nextbtn" class="btn btn-primary" onclick="newques()" style="display:none">Next</button>
+        <p id="result"></p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal -->
+  <div id="storyModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 class="modal-title">The Impact of Climate Change on Arctic Ice
+          </h3>
+        </div>
+        <div class="modal-body">
+          <p>
+            Climate change is one of the most pressing challenges of our time, and its effects are increasingly visible around the globe. One area where its impact is particularly severe is the Arctic, where rising temperatures have led to significant melting of sea ice. This phenomenon has far-reaching consequences not just for the Arctic ecosystem but for the entire planet. A recent article by Jane Smith titled, "Arctic Ice Melting at Unprecedented Rates," highlights the alarming pace of these changes and the need for urgent action.
+
+<br><br>The Arctic is often referred to as the Earth's "air conditioner" because its ice helps regulate global temperatures by reflecting sunlight. However, due to human-induced greenhouse gas emissions, temperatures in the Arctic are rising nearly four times faster than the global average. As a result, the summer sea ice extent has decreased by more than 40% since the late 1970s. Jane Smith writes, “The Arctic is losing approximately 13% of its ice cover each decade, a trend that could lead to ice-free summers within the century.”
+
+<br><br>The loss of sea ice has devastating effects on the Arctic's unique wildlife. Polar bears, seals, and walruses rely on the ice for hunting, breeding, and resting. Without it, they are forced to travel longer distances for food, leading to starvation and population decline. Additionally, the melting ice disrupts the migratory patterns of birds and marine animals. As Smith observes, “The vanishing ice is not just a crisis for wildlife; it’s a signal of profound changes to Earth’s climate systems.”
+
+<br><br>Moreover, the melting Arctic ice contributes to rising sea levels, which threaten coastal communities around the world. When ice on land, such as glaciers and ice sheets, melts, it adds water to the oceans. The rising sea levels increase the frequency and severity of flooding in low-lying areas, endangering lives, property, and infrastructure. Jane Smith warns, “The ripple effects of Arctic ice loss are already being felt, from stronger hurricanes to disrupted weather patterns across the globe.”
+
+<br><br>Despite the gravity of the situation, there is hope if immediate action is taken. Scientists and environmentalists stress the importance of reducing carbon emissions, transitioning to renewable energy, and protecting vulnerable ecosystems. Global cooperation and strong policies are essential to slowing the pace of Arctic ice loss and mitigating its effects.
+<br><br>The melting of Arctic ice is a stark reminder of the interconnectedness of Earth's systems and the urgency of addressing climate change. As Jane Smith eloquently concludes in her article, “The Arctic is not a distant crisis; it is a mirror reflecting the choices we make today and their consequences for future generations.”
+
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>

@@ -1,0 +1,286 @@
+{
+  "heading": "Non-Fiction",
+  "topics": [
+    {
+      "heading": "Non-Fiction",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is the main subject of the essay?",
+          "options": [
+            "The role of renewable energy",
+            "The effects of climate change on the Arctic",
+            "The habits of polar bears",
+            "The history of the Arctic region"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Why is the Arctic called the 'Earth's air conditioner'?",
+          "options": [
+            "It produces cool air for the planet",
+            "Its ice helps regulate global temperatures",
+            "It is the coldest place on Earth",
+            "It influences weather patterns directly"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "What has happened to the summer sea ice extent since the late 1970s?",
+          "options": [
+            "It has remained the same",
+            "It has increased by 40%",
+            "It has decreased by more than 40%",
+            "It has become thicker"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "How fast are Arctic temperatures rising compared to the global average?",
+          "options": [
+            "Twice as fast",
+            "Three times as fast",
+            "Four times as fast",
+            "The same speed"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "Which of the following is not mentioned as a consequence of Arctic ice loss?",
+          "options": [
+            "Increased volcanic activity",
+            "Decline in polar bear populations",
+            "Rising sea levels",
+            "Disrupted weather patterns"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "Which element of non-fiction is used in the sentence: 'The Arctic is losing approximately 13% of its ice cover each decade'?",
+          "options": [
+            "Narrative",
+            "Theme",
+            "Factual evidence",
+            "Dialogue"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "What is the theme of the essay?",
+          "options": [
+            "Wildlife in the Arctic",
+            "Urgency to address climate change",
+            "The beauty of the Arctic landscape",
+            "Advances in scientific research"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "What type of non-fiction writing is this essay?",
+          "options": [
+            "Narrative",
+            "Expository",
+            "Persuasive"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "How does the author use imagery in the essay?",
+          "options": [
+            "By describing the appearance of polar bears",
+            "By illustrating the Arctic’s role in climate regulation",
+            "By mentioning the beauty of the northern lights",
+            "By showing the ripple effects of ice loss"
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "question": "Which sentence best reflects the conclusion of the essay?",
+          "options": [
+            "'The Arctic is losing approximately 13% of its ice cover each decade.'",
+            "'The Arctic is not a distant crisis; it is a mirror reflecting the choices we make today and their consequences for future generations.'",
+            "'Scientists and environmentalists stress the importance of reducing carbon emissions.'",
+            "'Polar bears rely on the ice for hunting, breeding, and resting.'"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "What does 'unprecedented' mean in the context of the title of Jane Smith's article?",
+          "options": [
+            "Never done before",
+            "Hard to predict",
+            "Frequently occurring",
+            "Difficult to understand"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 12,
+          "question": "What does 'ripple effects' mean in this context?",
+          "options": [
+            "Effects that occur in waves",
+            "Minor and insignificant consequences",
+            "Widespread impacts resulting from a single event",
+            "Changes limited to a small area"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "Why does the author quote Jane Smith's article in the essay?",
+          "options": [
+            "To add credibility through expert evidence",
+            "To fill up space in the essay",
+            "To provide entertainment",
+            "To confuse the reader with technical terms"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "What does the author mean by 'human-induced greenhouse gas emissions'?",
+          "options": [
+            "Greenhouse gases naturally occurring in the atmosphere",
+            "Gases released from volcanic eruptions",
+            "Emissions caused by human activities like burning fossil fuels",
+            "Gases created by plants during photosynthesis"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "What is the purpose of mentioning polar bears, seals, and walruses?",
+          "options": [
+            "To describe Arctic wildlife in detail",
+            "To highlight the impact of ice loss on these species",
+            "To argue for protecting endangered species",
+            "To compare Arctic animals to other species"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "What action does the essay suggest to address Arctic ice loss?",
+          "options": [
+            "Ignoring the problem",
+            "Transitioning to renewable energy and reducing emissions",
+            "Moving to higher ground to avoid flooding",
+            "Studying the Arctic without making changes"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "What can be inferred about the global impact of Arctic ice loss?",
+          "options": [
+            "It only affects Arctic animals.",
+            "It helps regulate global economic activities.",
+            "It has no significant impact beyond the Arctic region.",
+            "It influences global weather patterns and sea levels."
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 18,
+          "question": "Why does the author emphasise the need for global cooperation?",
+          "options": [
+            "Climate change is a local issue.",
+            "Countries need to share financial resources for Arctic research.",
+            "The problem of climate change affects everyone and requires collective effort.",
+            "Global cooperation will solve the problem immediately."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "What would likely happen if no action is taken to reduce carbon emissions?",
+          "options": [
+            "The Arctic will restore its ice levels naturally.",
+            "Sea levels will continue to rise, leading to catastrophic flooding and ecosystem collapse.",
+            "The melting will stop due to natural climate cycles.",
+            "Arctic wildlife will adapt without any negative effects."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "What does 'mitigating' mean in the context: 'mitigating its effects'?",
+          "options": [
+            "Ignoring the effects",
+            "Lessening the severity of the effects",
+            "Worsening the impact",
+            "Observing the consequences"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 21,
+          "question": "What does the word 'profound' mean in the sentence: 'It’s a signal of profound changes to Earth’s climate systems'?",
+          "options": [
+            "Simple and straightforward",
+            "Temporary and reversible",
+            "Unrelated and minor",
+            "Deep and significant"
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 22,
+          "question": "How does the essay support its main argument?",
+          "options": [
+            "By presenting personal anecdotes",
+            "By using statistics, expert quotes, and examples",
+            "By describing the Arctic's beauty",
+            "By ignoring opposing viewpoints"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 23,
+          "question": "What is the main purpose of this essay?",
+          "options": [
+            "To entertain readers with Arctic stories",
+            "To persuade readers to visit the Arctic",
+            "To inform readers about the consequences of Arctic ice melting",
+            "To criticise governments for their inaction"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "What does the use of Jane Smith’s quotes in the essay demonstrate?",
+          "options": [
+            "Dialogue between the author and Jane Smith",
+            "Reliance on fictional storytelling",
+            "Integration of expert perspectives to strengthen arguments",
+            "Avoidance of personal opinions"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 25,
+          "question": "Which of the following is not typically considered non-fiction?",
+          "options": [
+            "A newspaper article",
+            "A fantasy novel",
+            "An autobiography",
+            "A documentary film"
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+    }
+  ]
+}
